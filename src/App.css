@@ -1,0 +1,36 @@
+#root {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+div.traffic-lights {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-around;
+  gap: 1rem;
+  border-radius: 20px;
+  background-color: black;
+  width: 40px;
+  height: 150px;
+  padding: 10px;
+}
+
+div.grey {
+  background-color: grey;
+  border-radius: 50px;
+  flex: 1;
+}
+
+div.red {
+  background-color: red;
+}
+
+div.green {
+  background-color: green;
+}
+
+div.yellow {
+  background-color: yellow;
+}
