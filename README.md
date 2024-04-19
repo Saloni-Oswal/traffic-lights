@@ -31,4 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Demo:
 
+Basic traffic signal simualtion in JavaScript.
+Usage: setInterval, resusable React components
+
 ![gif](https://github.com/Saloni-Oswal/traffic-lights/assets/20659496/b2bc921c-15ba-436e-9b7f-7a412a6780b8)
